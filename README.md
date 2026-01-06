@@ -37,16 +37,4 @@ breaking things, and fixing them again.
 Telegram  : @MOH_MAYA_OFFICIAL
 Instagram : @AAYU__TECH
 
-<!--TODAY QUOTE-->
-<p align="center">
-  <img
-    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"
-    style="border:2px solid #00ff87; border-radius:6px;"
-  />
-</p>
-<!-- GITHUB DAILY ACTIVITY GRAPH -->
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AYUSH&bg_color=0d1117&color=00ff87&line=00ff87&point=ffffff&area=true&hide_border=true" />
-<!-- TOP LANGUAGES -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AYUSH&layout=compact&bg_color=0d1117&title_color=00ff87&text_color=ffffff&hide_border=true" />
-</p>
+
