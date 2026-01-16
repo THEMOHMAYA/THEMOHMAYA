@@ -38,6 +38,4 @@ Telegram  : @MOH_MAYA_OFFICIAL
 Instagram : @AAYU__TECH
 
 
-## 📊 &nbsp;Status
 
-[![AYUSH](https://github-stats-alpha.vercel.app/api?username=THEMOHMAYA "THEMOHMAYA")](https://github-stats-alpha.vercel.app/api?username=THEMOHMAYA "THEMOHMAYA")
