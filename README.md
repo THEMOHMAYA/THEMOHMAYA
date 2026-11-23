@@ -56,23 +56,6 @@ class Developer:
 
 ---
 
-### 🚀 Featured Repositories
-
-<div align="center">
-
-| Project | Description | Tech Stack | Status |
-| :--- | :--- | :--- | :---: |
-| [**wordseek**](https://github.com/THEMOHMAYA/wordseek) | High-speed interactive word search & puzzle Telegram bot with async engine | `Python` `PTB` `SQLAlchemy` `SQLite/Postgres` | 🟢 Active |
-| [**bjs-architect-telegram-bot**](https://github.com/THEMOHMAYA/bjs-architect-telegram-bot) | AI-powered Telegram Bot architect for Bots.Business (BJS) with subscription management | `Python` `AI/LLM` `Telegram API` | 🟢 Active |
-| [**moviebot**](https://github.com/THEMOHMAYA/moviebot) | Smart Telegram movie & series search relay bot with channel indexing | `Python` `AsyncIO` `Telegram API` | 🟢 Active |
-| [**instadownload**](https://github.com/THEMOHMAYA/instadownload) | Lightning-fast Instagram media & reels downloader bot | `Python` `Media Engine` `APIs` | 🟢 Active |
-| [**wordchain**](https://github.com/THEMOHMAYA/wordchain) | Multi-player interactive word chain game bot with real-time state tracking | `Python` `Database` `Game Logic` | 🟢 Active |
-| [**wordly**](https://github.com/THEMOHMAYA/wordly) | Daily wordle puzzle game engine with leaderboard & analytics | `Python` `Algorithms` `Telegram` | 🟢 Active |
-
-</div>
-
----
-
 ### 📊 GitHub Activity & Analytics
 
 <div align="center">
