@@ -74,7 +74,7 @@ class Developer:
 ### 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://t.me/alonepro098">
+  <a href="https://t.me/moh_maya_official">
     <img src="https://img.shields.io/badge/Telegram-Connect-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   <a href="https://github.com/THEMOHMAYA">
